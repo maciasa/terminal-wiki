@@ -1,3 +1,5 @@
+#include "controller.h"
+using namespace std;
 
 int main() {
 	// Create Controller Instance
